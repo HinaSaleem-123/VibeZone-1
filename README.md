@@ -34,7 +34,7 @@
 
 ## 📸 Screenshots
 
-| Mood Detection | Recommended Songs |
+| Splash Screen | Mood Detection |
 |----------------|-------------------|
 | ![Splash](assets/splash_screen.jpg) | ![Capture](assets/capture_screen.jpg) |
 
