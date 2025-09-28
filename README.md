@@ -36,7 +36,7 @@
 
 | Mood Detection | Recommended Songs |
 |----------------|-------------------|
-| ![Mood](assets/mood_screen.png) | ![Songs](assets/song_screen.png) |
+| ![Mood](splash_screen.jpg) | ![Songs](assets/song_screen.png) |
 
 *(Replace with your real screenshots: `assets/mood_screen.png` etc.)*
 
