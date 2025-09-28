@@ -126,7 +126,3 @@ Please ensure your code follows the project style and includes tests/screenshots
 Distributed under the MIT License. See `LICENSE` for details.
 
 ---
-
-> 💡 **Tip:** Add a project banner GIF at the top for extra polish.  
-> Example:  
-> `![Banner](assets/banner.gif)`
