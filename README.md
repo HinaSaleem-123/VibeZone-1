@@ -36,7 +36,7 @@
 
 | Splash Screen | Mood Detection |
 |----------------|-------------------|
-| ![Splash](https://github.com/HinaSaleem-123/VibeZone-1/blob/main/assests/cature_screen.jpg) | ![Capture](https://github.com/HinaSaleem-123/VibeZone-1/blob/main/assests/cature_screen.jpg) |
+| ![Splash](https://github.com/HinaSaleem-123/VibeZone-1/blob/main/assests/splash_screen.jpg) | ![Capture](https://github.com/HinaSaleem-123/VibeZone-1/blob/main/assests/cature_screen.jpg) |
 
 
 ---
