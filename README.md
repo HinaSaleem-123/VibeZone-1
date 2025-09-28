@@ -12,7 +12,6 @@
 
 ## 📚 Table of Contents
 - [✨ Features](#-features)
-- [📸 Screenshots](#-screenshots)
 - [⚙️ How It Works](#%EF%B8%8F-how-it-works)
 - [🛠 Tech Stack](#-tech-stack)
 - [🚀 Installation](#-installation)
@@ -28,16 +27,7 @@
 - **20 curated songs** per detected mood using YouTube API  
 - Sleek Android UI with **Login/Signup** flow  
 - Easy navigation between mood detection & recommendations  
-- Modular backend powered by **Flask + Python AI model**  
-
----
-
-## 📸 Screenshots
-
-| Splash Screen | Mood Detection |
-|----------------|-------------------|
-| ![Splash](https://github.com/HinaSaleem-123/VibeZone-1/blob/main/assests/splash_screen.jpg) | ![Capture](https://github.com/HinaSaleem-123/VibeZone-1/blob/main/assests/cature_screen.jpg) |
-
+- Modular backend powered by **Flask + Python AI model** 
 
 ---
 
